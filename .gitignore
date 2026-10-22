@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+weights/*.pt
+weights/*.onnx
+yolo11n.pt
+*_analyzed.mp4
+*_stats.json
